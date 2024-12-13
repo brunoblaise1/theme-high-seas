@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/brunoblaise1/theme-high-seas.git"
   },
   "contributes": {
     "themes": [
