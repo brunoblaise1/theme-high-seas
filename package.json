@@ -2,10 +2,13 @@
   "name": "high-seas-dark-theme",
   "displayName": "High Seas Dark Theme",
   "description": "Theme for high seas hackclub ",
+  "publisher": "Bruno Blaise",
+  "author": "Bruno Blaise",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
   },
+
   "categories": [
     "Themes"
   ],
