@@ -1,0 +1,25 @@
+{
+  "name": "high-seas-dark-theme",
+  "displayName": "High Seas Dark Theme",
+  "description": "Theme for high seas hackclub ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "High seas Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/High seas Theme-color-theme.json"
+      }
+    ]
+  }
+}
