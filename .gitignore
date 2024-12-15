@@ -1,1 +1,10 @@
-node_modules
+node_modules/
+dist/
+.DS_Store
+build/
+coverage/
+.env
+*.log
+.vscode/
+temp/
+*.tmp
