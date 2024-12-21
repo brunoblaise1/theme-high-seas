@@ -5,3 +5,4 @@ TODO: #F567D7
  #FEC2FB
  #F173B4
  #E199BE
+TODO: Logo of the theme

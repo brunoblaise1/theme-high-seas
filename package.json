@@ -1,7 +1,7 @@
 {
   "name": "high-seas-dark-theme",
   "displayName": "High Seas Dark Theme",
-  "description": "Theme for high seas hackclub ",
+  "description": "Theme for high seas Hack Club ",
   "publisher": "brunoblaise",
   "author": "brunoblaise",
   "version": "0.0.1",
@@ -15,6 +15,7 @@
     "type": "git",
     "url": "https://github.com/brunoblaise1/theme-high-seas.git"
   },
+  "icon": "/highlogo.png",
   "contributes": {
     "themes": [
       {

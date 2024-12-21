@@ -74,16 +74,35 @@
     "textBlockQuote.background": "#2e3440",
     "textBlockQuote.border": "#4b5362",
     "textLink.foreground": "#61afef",
+    "titleBar.activeBackground": "#1c2028",
+    "titleBar.inactiveBackground": "#1c2028",
 	"extensionButton.background":"#F567D7",
 	"extensionButton.hoverBackground":"#F173B4",
-	"extensionButton.prominentBackground":"#f2469f",
-    "gitDecoration.modifiedResourceForeground": "#F173B4",
-    "gitDecoration.deletedResourceForeground": "#ea4a5a",
-    "gitDecoration.untrackedResourceForeground": "#FEC2FB",
-    "editorCursor.foreground": "#FEC2FB",
-	"breadcrumb.foreground": "#E199BE",
-	"tab.activeBorderTop": "#F173B4",
-	"tab.inactiveForeground": "#c3adb8",
+	"extensionButton.prominentBackground":"#F173B4",
+
+    
+    "focusBorder": "#00c580",
+    "foreground": "#b99090",
+    "descriptionForeground": "#ac0808",
+     "titleBar.activeForeground": "#b21818",
+    "titleBar.activeBackground": "#34e000",
+    
+    "titleBar.inactiveForeground": "#006ad3",
+    "titleBar.inactiveBackground": "#3594e3",
+    "activityBar.foreground": "#d7b700",
+    
+    "list.activeSelectionForeground": "#d52f12",
+    
+    
+    "list.hoverBackground": "#282e34",
+    "statusBar.foreground": "#de7e0a",
+       "editorGroupHeader.tabsBorder": "#db3c07",
+        "tab.inactiveForeground": "#cecb0c",
+        "tab.hoverBackground": "#79700d",
+         "tab.activeBorderTop": "#6cf9c5",
+           "breadcrumb.foreground": "#d7d120",
+            "editorCursor.foreground": "#ffd1c8",
+  
 	},
 	"tokenColors": [
 		{
@@ -707,5 +726,3 @@
 		}
 	]
 }
-
-
