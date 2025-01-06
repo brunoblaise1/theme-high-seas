@@ -6,7 +6,9 @@ It's that time when we need to feel some energy to get in that mode of building,
 
 ## How to install
 
-- If you what to test it out check this link: marketplace.visualstudio.com/manage/publishers/brunoblaise/extensions/high-seas-dark-theme/hub
+- If you what to test it out check this link:
+
+[High seas](marketplace.visualstudio.com/manage/publishers/brunoblaise/extensions/high-seas-dark-theme/hub)
 
 - Look close in this repo you can find a file with `.vsix` which is the extension for compiled(I may say) download it and open it using vscode and then right click on it and the click `install`. 
 
